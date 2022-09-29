@@ -12,6 +12,78 @@
     "major": ""
   },
   {
+    "name": "Logan Kuhn",
+    "first_name": "Logan",
+    "last_name": "Kuhn",
+    "email": "lkuhn@hawaii.edu",
+    "standing": "Junior",
+    "role": "Student",
+    "photo": "https://drive.google.com/file/d/1V1BwyqFEWTYcAXoIXxPEetAANU1BpKbj/view?usp=sharing",
+    "linkedin": "https://www.linkedin.com/in/logan-kuhn7",
+    "bio": "Logan Kuhn is a 3rd year Electrical Engineering Student at UH Manoa and enjoys photography.",
+    "major": "Electrical Engineering"
+  },
+  {
+    "name": "Trevor Chang",
+    "first_name": "Trevor",
+    "last_name": "Chang",
+    "email": "trevorkw@hawaii.edu",
+    "standing": "Junior",
+    "role": "Student",
+    "photo": "http://static.scel-hawaii.org/profile_pics/no_profile.png",
+    "linkedin": "",
+    "bio": "Trevor Chang is a 3rd year Electrical Engineering Student.  His hobbies are playing tennis and video games.",
+    "major": "Electrical Engineering"
+  },
+  {
+    "name": "Gordon Ho",
+    "first_name": "Gordan",
+    "last_name": "Ho",
+    "email": "gordonh@hawaii.edu",
+    "standing": "Sophomore",
+    "role": "Student",
+    "photo": "http://static.scel-hawaii.org/profile_pics/no_profile.png",
+    "linkedin": "",
+    "bio": "Gordon Ho is a 2nd year Electrical Engineering student interested in pursuing a career in renewable energy. ",
+    "major": "Electrical Engineering"
+  },
+  {
+    "name": "Jaeden Chang",
+    "first_name": "Jaeden",
+    "last_name": "Chang",
+    "email": "jaedench@hawaii.edu",
+    "standing": "Junior",
+    "role": "Student",
+    "photo": "https://drive.google.com/file/d/1PK3fPFzfRc983lG3QDOebyJRYEcfi_tc/view?usp=sharing",
+    "linkedin": "https://www.linkedin.com/in/jaeden-chang-b28094205",
+    "bio": "Jaeden is a third year Computer Engineering student and is a current member of the firmware team of the Smart Campus Energy Lab. She is interested in software development. In her free time, she likes to crochet and make jewelry.",
+    "major": "Computer Engineering"
+  },
+  {
+    "name": "Zachariah Pang",
+    "first_name": "Zachariah",
+    "last_name": "Pang",
+    "email": "zpang9@hawaii.edu",
+    "standing": "Junior",
+    "role": "Student",
+    "photo": "http://static.scel-hawaii.org/profile_pics/no_profile.png",
+    "linkedin": "",
+    "bio": "Zachariah Pang is a 3rd year Electrical Engineering student from the Windward side of Oahu. Zach loves to play video games, work out, and play the guitar.",
+    "major": "Electrical Engineering"
+  },
+  {
+    "name": "Lyon Singleton",
+    "first_name": "Lyon",
+    "last_name": "Singleton",
+    "email": "lyonws@hawaii.edu",
+    "standing": "Junior",
+    "role": "Student",
+    "photo": "https://drive.google.com/file/d/1Aqa4LFa0dDMTW8AtD-DKzzBLKiRaKV_D/view?usp=sharing",
+    "linkedin": "https://www.linkedin.com/in/lyon-singleton-0207b6251",
+    "bio": "Lyon Singleton is a junior in Computer Engineering at the University of Hawaii at Manoa. His interests include programming and building computers. His hobbies include gaming and binge watching shows.",
+    "major": "Computer Engineering"
+  },
+  {
     "name": "Trevor Alexander",
     "first_name": "Trevor",
     "last_name": "Alexander",
@@ -318,10 +390,10 @@
     "email": "jrc808@hawaii.edu",
     "standing": "Graduate Student",
     "role": "Student",
-    "photo": "http://static.scel-hawaii.org/profile_pics/profile_josh renzo_claudio.jpg",
+    "photo": "https://drive.google.com/file/d/1C-N_m7-eeqvYMhTFRjX_y1XXc_X3r1Wm/view?usp=sharing",
     "linkedin": "https://www.linkedin.com/in/josh-renzo-claudio/",
-    "bio": "Josh is a Senior in Electrical Engineering and is the current Lab Manager of the Smart Campus Energy Lab. He interests are in embedded systems and STEM outreach. In his free time,  he likes to play video games and binge watch shows on Netflix. ",
-    "major": "Electrical Engineering"
+    "bio": "Josh is a graduate student in the Mechanical Engineering Department conducting research in resident autonomous underwater vehicles (RAUVs). His current thesis work is on data-driven flow field modeling and flow-aided robot localization and mapping using physics-informed neural networks and Bayesian filtering. His previous work with the Electrical Engineering department was on photovoltaic power forecasting using various batch-regression techniques.",
+    "major": "Mechanical Engineering"
   },
   {
     "name": "Jimmy Cumming",
